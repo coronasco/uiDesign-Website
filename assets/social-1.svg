@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #0a315a;
+      }
+
+      .cls-3 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1" data-name="Rectangle 1" class="cls-1" width="8" height="14.548"/>
+    </clipPath>
+  </defs>
+  <g id="Group_355" data-name="Group 355" transform="translate(-375 -5936)">
+    <circle id="Ellipse_89" data-name="Ellipse 89" class="cls-2" cx="21.5" cy="21.5" r="21.5" transform="translate(375 5936)"/>
+    <g id="Facebook" transform="translate(117 5567.111)">
+      <g id="Group_2" data-name="Group 2" transform="translate(276 382.89)">
+        <g id="Group_1" data-name="Group 1" class="cls-3">
+          <path id="Path_1" data-name="Path 1" class="cls-1" d="M284.146,382.795l-1.866,0a3.276,3.276,0,0,0-3.45,3.541v1.633h-1.876a.293.293,0,0,0-.294.293v2.366a.294.294,0,0,0,.294.293h1.876v5.969a.293.293,0,0,0,.293.293h2.448a.293.293,0,0,0,.293-.293v-5.969h2.193a.294.294,0,0,0,.294-.293v-2.366a.293.293,0,0,0-.294-.293h-2.194v-1.384c0-.665.158-1,1.025-1h1.256a.294.294,0,0,0,.294-.293v-2.2a.294.294,0,0,0-.293-.294Zm0,0" transform="translate(-276.537 -382.81)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

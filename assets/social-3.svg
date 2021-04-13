@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="43" height="43" viewBox="0 0 43 43">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0a315a;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_357" data-name="Group 357" transform="translate(-490 -5936)">
+    <circle id="Ellipse_91" data-name="Ellipse 91" class="cls-1" cx="21.5" cy="21.5" r="21.5" transform="translate(490 5936)"/>
+    <g id="Google_" data-name="Google+" transform="translate(408 5657.109)">
+      <path id="Path_1" data-name="Path 1" class="cls-2" d="M377.814,347.9v-2.808h-1.4V347.9H373.6v1.4h2.808v2.808h1.4V349.3h2.809v-1.4Zm0,0" transform="translate(-266.423 -48.458)"/>
+      <path id="Path_2" data-name="Path 2" class="cls-2" d="M99.021,299.44v2.775h3.972a4.193,4.193,0,1,1-1.244-4.545l1.845-2.092a6.912,6.912,0,1,0,2.447,5.25V299.44Zm0,0"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="195" height="39" viewBox="0 0 195 39">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3d37f1;
+        font-size: 32px;
+        font-family: Lato-Bold, Lato;
+        font-weight: 700;
+      }
+
+      .cls-2 {
+        fill: #4b647e;
+        font-family: Lato-Light, Lato;
+        font-weight: 300;
+      }
+    </style>
+  </defs>
+  <text id="Web_UiExpert" data-name="Web UiExpert" class="cls-1" transform="translate(0 32)"><tspan x="0" y="0">Web </tspan><tspan class="cls-2" y="0">UiExpert</tspan></text>
+</svg>

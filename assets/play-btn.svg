@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="75" height="75" viewBox="0 0 75 75">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3d37f1;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_354" data-name="Group 354" transform="translate(-1045 -2645)">
+    <circle id="Btn_bg" class="cls-1" cx="37.5" cy="37.5" r="37.5" transform="translate(1045 2645)"/>
+    <path id="Path_1188" data-name="Path 1188" class="cls-2" d="M3134.005,939.013l23.328,16.922-23.185,14.982Z" transform="translate(-2059.005 1727.987)"/>
+  </g>
+</svg>
